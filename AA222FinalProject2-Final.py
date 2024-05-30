@@ -178,7 +178,7 @@ plt.scatter(*utopia_point_original, color='magenta', zorder=5, label='Utopia Poi
 
 # Plot the utopia point for cash value
 utopia_point_cash_value = (1, max(obj_values_cash_value))
-plt.scatter(*utopia_point_cash_value, color='cyan', zorder=5, label='Utopia Point (Cash Valuation)')
+plt.scatter(*utopia_point_cash_value, color='cyan', zorder=5, label='Utopia Point (Cashc Valuation)')
 
 plt.title('Plot of Annual Net Positive Value Gained vs Number of Cards in Setup')
 plt.xlabel('Number of Selected Cards')
@@ -191,3 +191,5 @@ plt.savefig('pareto_frontier_comparison_plot.png')
 
 # Show the plot
 plt.show()
+
+### LOL 
