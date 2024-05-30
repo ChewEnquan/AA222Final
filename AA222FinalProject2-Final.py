@@ -191,5 +191,3 @@ plt.savefig('pareto_frontier_comparison_plot.png')
 
 # Show the plot
 plt.show()
-
-### LOL 
