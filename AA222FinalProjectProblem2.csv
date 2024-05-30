@@ -1,0 +1,49 @@
+﻿Card,AnnualFee,,Point Type,PointValue,PointValue_CashValue,,Dining,Grocery,Travel,Rent,Others,,Sign_Up_Bonus_Points,Spending_Requirements
+Chase_Sapphire_Prefered ,95,,Chase_Ultimate_Rewards,0.0205,0.01,,3,3,2,0,1,,75000,4000
+Chase_Sapphire_Reserve,550,,Chase_Ultimate_Rewards,0.0205,0.01,,3,1,3,0,1,,75000,4000
+Chase_Freedom_Unlimited,0,,Chase_Ultimate_Rewards,0.0205,0.01,,3,1.5,1.5,0,1.5,,20000,500
+Chase_United_Gateway_Card,0,,United_MileagePlus,0.0135,0,,1,1,2,0,1,,20000,1000
+Chase_United_Explorer_Card,95,,United_MileagePlus,0.0135,0,,2,1,2,0,1,,50000,3000
+Chase_United_Quest_Card,250,,United_MileagePlus,0.0135,0,,2,1,3,0,1,,60000,4000
+Chase_United_Infinite_Card,525,,United_MileagePlus,0.0135,0,,2,1,4,0,1,,80000,5000
+American_Express_Green_Card,150,,AMEX_Membership_Rewards,0.02,0.006,,1,3,3,0,1,,40000,3000
+American_Express_Gold_Card,250,,AMEX_Membership_Rewards,0.02,0.006,,4,4,3,0,1,,60000,6000
+American_Express_Platinum_Card,695,,AMEX_Membership_Rewards,0.02,0.006,,1,1,5,0,1,,100000,8000
+Amex_EveryDay_Preferred_Credit_Card,95,,AMEX_Membership_Rewards,0.02,0.006,,1,3,1,0,1,,15000,2000
+Amex_EveryDay_Credit_Card,0,,AMEX_Membership_Rewards,0.02,0.006,,1,2,1,0,1,,10000,2000
+Amex_Blue_Cash_Preferred_Card,95,,US Cents,0.01,0.01,,1,6,1,0,1,,25000,3000
+Amex_Blue_Cash_Everyday_Card,0,,US Cents,0.01,0.01,,1,3,1,0,1,,20000,2000
+Amex_Cash_Magnet_Card,0,,US Cents,0.01,0.01,,1.5,1.5,1.5,0,1.5,,20000,20000
+Delta_SkyMiles_Blue_American_Express_Card,0,,Delta_SkyMiles,0.0115,0,,2,1,2,0,1,,10000,1000
+Delta_SkyMiles_Gold_American_Express_Card,150,,Delta_SkyMiles,0.0115,0,,2,2,2,0,1,,40000,2000
+Delta_SkyMiles_Platinum_American_Express_Card,350,,Delta_SkyMiles,0.0115,0,,2,2,3,0,1,,50000,3000
+Delta_SkyMiles_Reserve_American_Express_Card,650,,Delta_SkyMiles,0.0115,0,,1,1,3,0,1,,60000,5000
+BILT_Card,0,,BILT Rewards,0.0205,0.0055,,3,1,2,1,1,,0,0
+Hilton_Honors_American_Express_Card,0,,Hilton_Honors,0.006,0,,5,5,7,0,3,,70000,2000
+Hilton_Honors_American_Express_Surpass_Card,150,,Hilton_Honors,0.006,0,,6,6,12,0,3,,130000,3000
+Hilton_Honors_American_Express_Aspire_Card,550,,Hilton_Honors,0.006,0,,7,3,14,0,3,,175000,6000
+Marriott_Bonvoy_Bevy_American_Express_Card,250,,Marriott_Bonvoy,0.0085,0,,4,4,6,0,2,,85000,5000
+Marriott_Bonvoy_Brilliant_American_Express_Card,650,,Marriott_Bonvoy,0.0085,0,,3,2,6,0,2,,95000,6000
+Aeroplan_Card,95,,Aeroplan,0.015,0,,1,3,1,0,1,,70000,3000
+Southwest_Rapid_Rewards_Plus_Credit_Card,69,,Southwest_Rapid_Rewards,0.0135,0,,1,1,2,0,1,,50000,1000
+Southwest_Rapid_Rewards_Premier_Credit_Card,99,,Southwest_Rapid_Rewards,0.0135,0,,1,1,3,0,1,,50000,1000
+Southwest_Rapid_Rewards_Priority_Credit_Card,149,,Southwest_Rapid_Rewards,0.0135,0,,1,1,3,0,1,,50000,1000
+Marriott_Bonvoy_Bold_Credit_Card,0,,Marriott_Bonvoy,0.0085,0,,1,1,2,0,1,,50000,1000
+Marriott_Bonvoy_Boundless_Credit_Card,95,,Marriott_Bonvoy,0.0085,0,,3,3,2,0,2,,150000,3000
+Marriott_Bonvoy_Bountiful_Credit_Card,250,,Marriott_Bonvoy,0.0085,0,,4,4,2,0,2,,85000,4000
+Wells_Fargo_Active_Cash_Credit_Card,0,,US Cents,0.01,0.01,,2,2,2,0,2,,20000,500
+Wells_Fargo_Autograph_Journey,95,,Wells_Fargo_Points,0.016,0.01,,3,1,4,0,1,,60000,4000
+Wells_Fargo_Autograph_Card,0,,Wells_Fargo_Points,0.016,0.01,,3,1,3,0,1,,20000,1000
+Citi_Strata_Premier_Card,95,,Citi_ThankYou_Rewards,0.018,0.01,,3,3,3,0,1,,75000,4000
+Citi_Double_Cash_Credit_Card,0,,Citi_ThankYou_Rewards,0.018,0.01,,2,2,2,0,2,,20000,1500
+Citi_Rewards+_Card,0,,Citi_ThankYou_Rewards,0.018,0.01,,1,2,1,0,1,,20000,1500
+American_Airlines_AAdvantage_Mileup_Card,0,,Aadvantage_Miles,0.016,0,,1,2,2,0,1,,15000,500
+Citi_AAdvantage_Platinum_Select_World_Elite_Card,99,,Aadvantage_Miles,0.016,0,,2,1,2,0,1,,50000,2500
+Citi_AAdvantage_Executive_Select_World_Elite_Card,595,,Aadvantage_Miles,0.016,0,,1,1,4,0,1,,70000,7000
+CapitalOne_Savor_Rewards,95,,CapitalOne_Points,0.0185,0.005,,4,3,1,0,1,,30000,3000
+CapitalOne_SavorOne_Rewards,0,,CapitalOne_Points,0.0185,0.005,,3,3,1,0,1,,20000,500
+QuicksilverOne_from_CapitalOne,39,,CapitalOne_Points,0.0185,0.005,,1.5,1.5,1.5,0,1.5,,0,0
+Quicksilver_from_CapitalOne,0,,CapitalOne_Points,0.0185,0.005,,1.5,1.5,1.5,0,1.5,,20000,500
+VentureOne_Rewards_from_CapitalOne,0,,CapitalOne_Points,0.0185,0.005,,1.25,1.25,1.25,0,1.25,,20000,500
+Venture_Rewards_from_CapitalOne,95,,CapitalOne_Points,0.0185,0.005,,2,2,2,0,2,,75000,4000
+VentureX,395,,CapitalOne_Points,0.0185,0.005,,2,2,2,0,2,,75000,4000
